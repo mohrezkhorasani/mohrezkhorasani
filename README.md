@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Mohrez and I'm a .Net Developer, from 2018</h2>
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohrezkhorasani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohrezkhorasani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&custom_title=%D8%B2%D8%A8%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C%20%D9%BE%D8%B1%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%20%D8%AF%D8%B1%20%D8%AA%D9%88%D8%B3%D8%B9%D9%87%20%D9%BE%D8%B1%D9%88%DA%98%D9%87%E2%80%8C%D9%87%D8%A7" height="150" alt="languages graph"  />
 </div>
@@ -15,7 +15,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="30" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
@@ -83,7 +83,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
@@ -99,14 +99,22 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://www.instagram.com/ismohrez" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=INSTAGRAM&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<div align="center">
+  <a href="https://www.youtube.com/..." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://discord.gg/..." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/ismohrez" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=INSTAGRAM&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:youremail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/..." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -114,5 +122,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/mohrezkhorasani/mohrezkhorasani/output/snake.svg" alt="Snake animation" />
-
-###
