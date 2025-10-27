@@ -120,5 +120,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/mohrezkhorasani/mohrezkhorasani/output/snake.svg" alt="Snake animation" />
